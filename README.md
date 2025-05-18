@@ -26,8 +26,8 @@ leetcode-java-solutions/
 
 The problems in this repository are organized by topic and difficulty (Easy, Medium, Hard) using the excellent [AlgoMaster DSA Patterns](https://algomaster.io/practice/dsa-patterns) resource.
 
-🤝 Contributing
+## 🤝 Contributing
 This repo is a personal log, but feel free to fork or suggest improvements.
 
-📫 Contact
+## 📫 Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/preethy-krishnamoorthy/) or check out my [GitHub](https://github.com/pkrish7/) profile.
