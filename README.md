@@ -1,7 +1,6 @@
 # LeetCode Java Solutions
 ![Java](https://img.shields.io/badge/language-Java-blue)
-![Problems Solved](https://img.shields.io/badge/problems_solved-45-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Problems Solved](https://img.shields.io/badge/problems_solved-6-orange)
 
 Welcome to my collection of Java solutions for LeetCode problems. This repository serves as a personal learning journal and a resource for other developers preparing for coding interviews.
 
