@@ -5,7 +5,7 @@
 Welcome to my collection of Java solutions for LeetCode problems. This repository serves as a personal learning journal and a resource for other developers preparing for coding interviews.
 
 ## 🚀 About
-- ✅ 6 problems solved and counting
+- ✅ 7 problems solved and counting
 - 🧠 Focus on clean, optimized solutions
 - 🗂 Categorized by topic (e.g., Arrays, Strings etc.)
 - 📚 Written in **Java**, using best practices and OOP principles
