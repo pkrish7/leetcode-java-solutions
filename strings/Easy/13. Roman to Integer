@@ -1,0 +1,33 @@
+import java.util.HashMap;
+import java.util.Map;
+
+class Solution {
+    public int romanToInt(String s) {
+        Map<Character, Integer> romanToIntMap = new HashMap<>();
+        romanToIntMap.put('M', 1000);
+        romanToIntMap.put('D', 500);
+        romanToIntMap.put('C', 100);
+        romanToIntMap.put('L', 50);
+        romanToIntMap.put('X', 10);
+        romanToIntMap.put('V', 5);
+        romanToIntMap.put('I', 1);
+
+        int result = 0;
+        int prevValue = 0;
+
+        for (int i = s.length() - 1; i >= 0; i--) {
+            char c = s.charAt(i);
+            int current = romanToIntMap.get(c);
+
+            if (current < prevValue) {
+                result -= current;
+            } else {
+                result += current;
+            }
+
+            prevValue = current;
+        }
+
+        return result;
+    }
+}
